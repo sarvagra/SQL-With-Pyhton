@@ -1,0 +1,13 @@
+2024-06-18 18:12:46,760 connecting with database
+2024-06-18 18:12:46,795 Building SSL context
+2024-06-18 18:12:46,890 Switching to SSL
+2024-06-18 18:12:46,907 SSL has been enabled
+2024-06-18 18:12:46,907 Starting authorization phase
+2024-06-18 18:12:46,907 The provided initial strategy is caching_sha2_password
+2024-06-18 18:12:46,907 package: mysql.connector.plugins
+2024-06-18 18:12:46,907 plugin_name: caching_sha2_password
+2024-06-18 18:12:46,907 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-06-18 18:12:46,907 Exchanging further packets
+2024-06-18 18:12:46,907 caching_sha2_password completed succesfully
+2024-06-18 18:12:46,907 inserting data into table one from sarvagra database.
+2024-06-18 18:12:46,907 inserting data into table two from sarvagra2 database.

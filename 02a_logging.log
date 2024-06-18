@@ -1,0 +1,12 @@
+2024-06-18 18:12:35,101 connecting with databse
+2024-06-18 18:12:35,132 Building SSL context
+2024-06-18 18:12:35,241 Switching to SSL
+2024-06-18 18:12:35,241 SSL has been enabled
+2024-06-18 18:12:35,241 Starting authorization phase
+2024-06-18 18:12:35,241 The provided initial strategy is caching_sha2_password
+2024-06-18 18:12:35,241 package: mysql.connector.plugins
+2024-06-18 18:12:35,241 plugin_name: caching_sha2_password
+2024-06-18 18:12:35,241 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-06-18 18:12:35,241 Exchanging further packets
+2024-06-18 18:12:35,241 caching_sha2_password completed succesfully
+2024-06-18 18:12:35,241 creating table_two

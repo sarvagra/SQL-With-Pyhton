@@ -1,1 +1,8 @@
 # SQL-With-Pyhton
+Connecting python with SQL and its use cases.<br>
+**-> CREATING A CONNECTION.**<BR>
+**-> CREATING A CONNECTION WITH PYTHON.**<BR>
+**-> CREATING A DATABASE.**<BR>
+**-> MAKING A TABLE.**<BR>
+**-> INSERTING VALUES INTO THE TABLE.**<BR>
+**-> FETCHING ALL AND COLUMNS FROM THE TABLE.**<BR>

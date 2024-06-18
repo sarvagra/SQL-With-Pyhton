@@ -1,0 +1,26 @@
+2024-06-18 18:18:51,474connecting with database
+2024-06-18 18:18:51,523Building SSL context
+2024-06-18 18:18:51,623Switching to SSL
+2024-06-18 18:18:51,644SSL has been enabled
+2024-06-18 18:18:51,644Starting authorization phase
+2024-06-18 18:18:51,644The provided initial strategy is caching_sha2_password
+2024-06-18 18:18:51,644package: mysql.connector.plugins
+2024-06-18 18:18:51,644plugin_name: caching_sha2_password
+2024-06-18 18:18:51,644AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-06-18 18:18:51,644Exchanging further packets
+2024-06-18 18:18:51,644caching_sha2_password completed succesfully
+2024-06-18 18:18:51,644fetching all columns
+2024-06-18 18:18:51,644(123, 'sarvagra', 23.456, 911, 'singh')
+2024-06-18 18:18:51,644(123, 'sarvagra', 23.456, 911, 'singh')
+2024-06-18 18:18:51,644(123, 'sarvagra', 23.456, 911, 'singh')
+2024-06-18 18:18:51,644fetching selected columns
+2024-06-18 18:18:51,644(733, 37)
+2024-06-18 18:18:51,644(733, 37)
+2024-06-18 18:18:51,644(733, 37)
+2024-06-18 18:18:51,644(733, 37)
+2024-06-18 18:18:51,644(733, 37)
+2024-06-18 18:18:51,656(733, 37)
+2024-06-18 18:18:51,656(733, 37)
+2024-06-18 18:18:51,656(733, 37)
+2024-06-18 18:18:51,656(733, 37)
+2024-06-18 18:18:51,656(733, 37)

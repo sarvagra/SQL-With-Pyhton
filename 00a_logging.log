@@ -1,0 +1,19 @@
+2024-06-18 18:02:52,049 Connecting python with SQL
+2024-06-18 18:02:52,101 Building SSL context
+2024-06-18 18:02:52,194 Switching to SSL
+2024-06-18 18:02:52,210 SSL has been enabled
+2024-06-18 18:02:52,210 Starting authorization phase
+2024-06-18 18:02:52,210 The provided initial strategy is caching_sha2_password
+2024-06-18 18:02:52,210 package: mysql.connector.plugins
+2024-06-18 18:02:52,210 plugin_name: caching_sha2_password
+2024-06-18 18:02:52,210 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-06-18 18:02:52,210 Exchanging further packets
+2024-06-18 18:02:52,210 caching_sha2_password completed succesfully
+2024-06-18 18:02:52,210 printing all databases
+2024-06-18 18:02:52,210 <mysql.connector.connection.MySQLConnection object at 0x000001666E3C6690>
+2024-06-18 18:02:52,210 ('information_schema',)
+2024-06-18 18:02:52,210 ('mysql',)
+2024-06-18 18:02:52,210 ('performance_schema',)
+2024-06-18 18:02:52,210 ('sarvagra',)
+2024-06-18 18:02:52,210 ('sarvagra2',)
+2024-06-18 18:02:52,210 ('sys',)
